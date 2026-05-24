@@ -43,20 +43,25 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
+a.   KVL:<img width="1310" height="668" alt="image" src="https://github.com/user-attachments/assets/57be9a50-f3b5-4fda-856d-b3031eb4b5ae" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="1309" height="635" alt="Screenshot 2026-05-24 155423" src="https://github.com/user-attachments/assets/9c5a4953-cc93-470a-b8a3-160b0ddebb2d" />
+
  
 
 Calculation:
 
 a.   KVL:
- 
+ <img width="828" height="629" alt="Screenshot 2026-05-24 155604" src="https://github.com/user-attachments/assets/02fca64a-62b6-4e1f-a1aa-4e56055e15bc" />
+<img width="483" height="194" alt="Screenshot 2026-05-24 155625" src="https://github.com/user-attachments/assets/4b85a6ce-f205-4982-9f6e-c6dc7e088988" />
+
 
 
 b.  KCL:
+<img width="510" height="462" alt="Screenshot 2026-05-24 155634" src="https://github.com/user-attachments/assets/562dbd44-955f-4cda-8c30-3985d94dd0c5" />
 
 
 
@@ -64,10 +69,12 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- 
+ <img width="698" height="244" alt="Screenshot 2026-05-24 155836" src="https://github.com/user-attachments/assets/f6f75e21-270f-4ab6-8cba-b3808863a360" />
+
 
 
 b.  KCL:
+<img width="640" height="215" alt="Screenshot 2026-05-24 155844" src="https://github.com/user-attachments/assets/b0ebc20f-8d73-4b58-bdb7-3895ee3395ba" />
 
 
 
